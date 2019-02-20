@@ -1,3 +1,7 @@
+**调试环境要求**
+* vs2017 或 vs code
+* .net core 2.2
+
 ### 初步实现转换
 * where
 * select
